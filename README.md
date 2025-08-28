@@ -1,8 +1,7 @@
 # 🌆 Super Trunfo de Cidades — Projeto em C
 
-Projeto desenvolvido por **Marcos Augusto do Couto** como parte dos desafios de nível **novato**, **aventureiro** e **avançado** na plataforma **SAVA**.
+Projeto desenvolvido por **Marcos Augusto do Couto** como parte dos desafios de nível  **Mestre** na plataforma **SAVA**.
 
----
 
 ## 🎯 Objetivo
 
